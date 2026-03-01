@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/wamp64/www/Chatbot-api/resources /c/wamp64/www/Chatbot-api/public -type f \\\\\\( -name \"*.php\" -o -name \"*.blade.php\" -o -name \"*.json\" -o -name \"*.js\" \\\\\\) -exec sed -i 's/Luminis/HR Chatbot/g' {} +)"
+    ]
+  }
+}

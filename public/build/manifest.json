@@ -1,0 +1,21 @@
+{
+  "resources/images/hero-bg.png": {
+    "file": "assets/hero-bg-CaTN-I2_.png",
+    "src": "resources/images/hero-bg.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BcYBdrUu.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-Bykvpcyv.css",
+    "src": "resources/scss/app.scss",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  }
+}
